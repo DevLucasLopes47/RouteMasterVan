@@ -22,7 +22,7 @@ Este projeto foi desenvolvido com o objetivo de otimizar as rotas diárias para 
 ## Como Funciona
 
 1. O sistema solicita ao usuário informações sobre o ponto inicial (endereço de partida) e o ponto final (faculdade).
-2. Pergunta a até três usuários se irão utilizar a van no dia e solicita seus endereços.
+2. Pergunta a até três usuários(podendo alterar para qualquer quantidade de usuários) se irão utilizar a van no dia e solicita seus endereços.
 3. Utiliza a API do Google Maps para calcular as coordenadas de cada endereço.
 4. Gera todas as rotas possíveis considerando os pontos de partida, parada e chegada.
 5. Calcula a distância total de cada rota e seleciona a mais curta.
