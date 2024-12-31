@@ -2,7 +2,7 @@
 <table>
   <tr>
     <td align="center" colspan="2">
-      <img src="https://github.com/user-attachments/assets/dc665467-7900-4c15-b862-550b65d31030" alt="RouteMasterVan" style="width: 50%; height: auto;">
+      <img src="https://github.com/user-attachments/assets/dc665467-7900-4c15-b862-550b65d31030" alt="RouteMasterVan" style="width: 100%; height: 50%;">
     </td>
   </tr>
 </table>
