@@ -3,7 +3,7 @@ import googlemaps
 import numpy as np 
 from itertools import permutations  
 
-API_KEY = 'AIzaSyBisYZ5bSObj0El3tes2TKusf2xiDQik3U'
+API_KEY = ''
 gmaps = googlemaps.Client(key=API_KEY)
 
 enderecos_cache = {} 
