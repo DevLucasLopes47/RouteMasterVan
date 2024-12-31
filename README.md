@@ -1,11 +1,5 @@
 # RouteMasterVan
-<table>
-  <tr>
-    <td align="center" colspan="2">
-      <img src="https://github.com/user-attachments/assets/dc665467-7900-4c15-b862-550b65d31030" alt="RouteMasterVan" style="width: 100%; height: 50%;">
-    </td>
-  </tr>
-</table>
+
 Este projeto foi desenvolvido com o objetivo de otimizar as rotas diárias para uma van, permitindo planejar trajetos eficientes com base nos endereços dos usuários e nos pontos de partida e chegada. O sistema utiliza a API do Google Maps para geocodificação, cálculo de distâncias e durações, além de oferecer suporte a múltiplos usuários e destinos intermediários.
 
 ## Funcionalidades
@@ -73,4 +67,10 @@ Este projeto está em fase de desenvolvimento e será transformado em um aplicat
 Contribuições são bem-vindas! Caso queira contribuir, sinta-se à vontade para abrir issues ou enviar pull requests.
 
 **Nota:** Este projeto é voltado para otimizar rotas de uma van em Belo Horizonte, com foco na rota até a faculdade UNIBH no bairro Buritis. Todas as sugestões para melhorias e novas funcionalidades são muito bem-vindas!
-
+<table>
+  <tr>
+    <td align="center" colspan="2">
+      <img src="https://github.com/user-attachments/assets/dc665467-7900-4c15-b862-550b65d31030" alt="RouteMasterVan" style="width: 100%; height: 50%;">
+    </td>
+  </tr>
+</table>
